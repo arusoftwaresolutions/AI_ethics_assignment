@@ -1,8 +1,5 @@
 ﻿# AI Ethics — Designing Responsible and Fair AI Systems 🌍⚖️
 
-Author: Student Team  
-Date: 2025-11-13
-
 ---
 
 ## Executive Summary
